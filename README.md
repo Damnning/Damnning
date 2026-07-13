@@ -1,15 +1,15 @@
 ---
 # Hi there, I’m Danila 👋  
 
-🚀 **Aspiring Data Scientist / ML Engineer** with hands-on experience in **Computer Vision, NLP, and Generative AI**.  
+🚀 **Aspiring Data Scientist, ML Engineer and Data Analyst** with hands-on experience in **Computer Vision, Classic ML, NLP, Generative AI**.  
 🎯 Passionate about building practical, production-ready AI systems and exploring applied research.  
 📍 Based in Voronezh, Russia  
 
 ---
 
 ## 🔬 About Me  
-- 🌱 Currently a **CS student** at Voronezh State University (graduation 2026)  
-- 💡 Strong focus on **Deep Learning, LLMs, CV, and classic ML**  
+- 🌱 Graduated at Voronezh State University Faculty of Computer Science 
+- 💡 Strong focus on **Classic ML, Deep Learning, CV, and LLMs**  
 - 🛠️ Love turning ideas into working prototypes and sharing them as open-source projects  
 - 📚 Always learning: from ML fundamentals to cutting-edge generative models  
 
